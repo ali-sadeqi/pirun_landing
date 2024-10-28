@@ -1,0 +1,31 @@
+{
+  "bg_image": "/img/photo/1.jpg",
+  "title": "Empowering Innovation with<br/><span class=\"mil-accent\">Intelligent </span><br/>Solutions",
+  "subtitle": "The future",
+  "button": {
+    "link": "/projects",
+    "label": "View Projects"
+  },
+  "numbers": [
+    {
+      "value": "200",
+      "afterValue": "+",
+      "label": "Succeeded <br/>Projects"
+    },
+    {
+      "value": "8",
+      "afterValue": "",
+      "label": "Working <br/>Hours"
+    },
+    {
+      "value": "10",
+      "afterValue": "+",
+      "label": "Years <br/>Experience"
+    },
+    {
+      "value": "500",
+      "afterValue": "+",
+      "label": "Active <br/>users"
+    }
+  ]
+}

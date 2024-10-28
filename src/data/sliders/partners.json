@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "image": "/img/partners/aws.svg",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/partners/google-cloud.svg",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/partners/swift.svg",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/partners/laravel.svg",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/partners/tensorflow.svg",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/partners/react.svg",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/partners/pytorch.svg",
+      "alt": "logo"
+    },
+    {
+      "image": "/img/partners/django.svg",
+      "alt": "logo"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Why Choose Pirun?",
+  "subtitle": "",
+  "slides": [
+    [
+      {
+        "title": "Innovation",
+        "text": "We're committed to staying at the forefront of AI technology and investing in research and development."
+      },
+      {
+        "title": "Expertise",
+        "text": "Our team has deep expertise in various AI fields, ensuring that we deliver high-quality solutions."
+      },
+      {
+        "title": "Customization",
+        "text": "We tailor our solutions to meet the unique needs of each client, providing personalized service."
+      }
+    ],
+    [
+      {
+        "title": "Community Engagement",
+        "text": "We actively contribute to the open-source community and collaborate with developers worldwide."
+      },
+      {
+        "title": "Customer Focus",
+        "text": "We prioritize customer satisfaction and are dedicated to providing excellent support."
+      }
+    ]
+  ]
+}

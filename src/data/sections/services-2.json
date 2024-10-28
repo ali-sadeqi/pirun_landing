@@ -1,0 +1,21 @@
+{
+  "title": "Unlocking the Power of AI for Modern Businesses",
+  "description": "At Pirun, we're passionate about harnessing the power of artificial intelligence to drive innovation and efficiency for businesses. Our team of skilled experts specializes in cutting-edge technologies like computer vision, large language models, and multimodal applications. We're dedicated to delivering tailored solutions that help our clients stay ahead of the curve and achieve their goals",
+  "items": [
+    {
+      "title": "Our Mission",
+      "text": "To empower businesses by providing innovative AI-driven solutions that meet the evolving demands of modern industries",
+      "link": "/services/service-1"
+    },
+    {
+      "title": "Our Core Services",
+      "text": "AI-Powered Applications Computer Vision Large Language Models Comprehensive Software Development Innovative Multimodal Applications",
+      "link": "/services/service-2"
+    },
+    {
+      "title": "Our Core Values",
+      "text": "Community Powered Freedom to Innovate Customer Empathy Do Good",
+      "link": "/services/service-3"
+    }
+  ]
+}

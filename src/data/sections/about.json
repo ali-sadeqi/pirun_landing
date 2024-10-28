@@ -1,0 +1,175 @@
+[
+  {
+    "section": "Instance Segmentation",
+    "image": {
+      "url": "/img/photo/instance.jpg",
+      "alt": "img"
+    },
+    "title": "Instance Segmentation",
+    "description": "Our team excels in identifying and delineating individual objects within an image, providing precise boundaries for each instance. For example, in a scene with multiple people, we can accurately segment each person from the background and determine their exact outlines. We employ techniques like Region-based Convolutional Neural Networks (R-CNN), Faster R-CNN, Mask R-CNN, and DeepLab to achieve this.",
+    "subSections": [
+      {
+        "title": "R-CNN:",
+        "description": "A two-stage approach that first generates region proposals and then classifies and regresses bounding boxes for each proposal."
+      },
+      {
+        "title": "Mask R-CNN",
+        "description": "An extension of Faster R-CNN that adds a branch for instance segmentation, predicting a pixel-wise mask for each detected object."
+      },
+      {
+        "title": "Faster R-CNN:",
+        "description": "An improved version of R-CNN that introduces a Region Proposal Network (RPN) to efficiently generate region proposals."
+      },
+      {
+        "title": "DeepLab",
+        "description": "A fully convolutional network that uses atrous convolution and dilated convolutions to capture multi-scale information and achieve high-resolution segmentation."
+      }
+    ]
+  },
+  {
+    "section": "Semantic Segmentation",
+    "image": {
+      "url": "/img/photo/semantic.jpg",
+      "alt": "img"
+    },
+    "title": "Semantic Segmentation",
+    "description": "We specialize in categorizing every pixel in an image into meaningful semantic classes, enabling detailed scene understanding. This allows us to distinguish between different objects and their attributes, such as cars, pedestrians, roads, and buildings. We utilize techniques such as Fully Convolutional Networks (FCNs), U-Net, DeepLab, and PSPNet for semantic segmentation.",
+    "subSections": [
+      {
+        "title": "FCNs",
+        "description": "A fully convolutional network that replaces fully connected layers with convolutional layers, allowing for end-to-end training and dense pixel-wise predictions."
+      },
+      {
+        "title": "U-Net",
+        "description": "An extension of Faster R-CNN that adds a branch for instance segmentation, predicting a pixel-wise mask for each detected object."
+      },
+      {
+        "title": "DeepLab",
+        "description": "A fully convolutional network that uses atrous convolution and dilated convolutions to capture multi-scale information and achieve high-resolution segmentation.."
+      },
+      {
+        "title": "PSPNet",
+        "description": "A pyramid scene parsing network that incorporates a pyramid pooling module to capture context at different scales."
+      }
+    ]
+  },
+  {
+    "section": "Object Detection",
+    "image": {
+      "url": "/img/photo/object.jpg",
+      "alt": "img"
+    },
+    "title": "Object Detection",
+    "description": "Our expertise lies in locating and classifying objects within images or videos, providing accurate bounding boxes and labels. This enables us to identify and track objects of interest, such as vehicles, faces, or animals. We employ techniques like YOLO, SSD, Faster R-CNN, and RetinaNet for object detection",
+    "subSections": [
+      {
+        "title": "YOLO",
+        "description": "A one-stage detector that divides an image into a grid and predicts bounding boxes and class probabilities for each cell."
+      },
+      {
+        "title": "SSD",
+        "description": "A single-shot detector that uses multiple feature maps at different scales to detect objects of various sizes"
+      },
+      {
+        "title": "Faster R-CNN",
+        "description": "A two-stage detector that uses a Region Proposal Network (RPN) to efficiently generate region proposals"
+      },
+      {
+        "title": "RetinaNet",
+        "description": "A one-stage detector that uses a focal loss function to address class imbalance and improve detection accuracy."
+      }
+    ]
+  },
+  {
+    "section": "Depth Estimation",
+    "image": {
+      "url": "/img/photo/object.jpg",
+      "alt": "img"
+    },
+    "title": "Depth Estimation",
+    "description": "We can accurately determine the distance between objects and the camera in a scene, creating a 3D representation from 2D images. This is useful for applications like autonomous driving, augmented reality, and robotics, where understanding the spatial layout of a scene is crucial. We utilize techniques such as stereo matching, monocular depth estimation, and structure from motion for depth estimation.",
+    "subSections": [
+      {
+        "title": "Stereo matching",
+        "description": "A technique that compares corresponding pixels in two images taken from different viewpoints to estimate depth."
+      },
+      {
+        "title": "Monocular depth estimation",
+        "description": "A technique that estimates depth from a single image using cues like occlusion boundaries, vanishing points, and texture gradients"
+      },
+      {
+        "title": "Structure from motion",
+        "description": "A technique that reconstructs 3D structure from a sequence of images by estimating camera motion and object motion"
+      }
+    ]
+  },
+  {
+    "section": "Depth Estimation Video",
+    "video": {
+      "url": "/img/video/Tracking - Pirun.mp4",
+      "alt": "img"
+    },
+    "title": "Depth Estimation",
+    "description": "Our algorithms can reliably follow and identify objects across multiple frames, enabling continuous tracking and analysis. This is essential for tasks such as surveillance, video analytics, and human-computer interaction. We employ techniques like Correlation Filter Tracking, Kalman Filter, and Deep Learning-based tracking for object tracking.",
+    "subSections": [
+      {
+        "title": "Correlation Filter Tracking:",
+        "description": "A tracking algorithm that uses correlation filters to efficiently track objects in video sequences."
+      },
+      {
+        "title": "Kalman Filter",
+        "description": "A probabilistic framework for estimating the state of a dynamic system from noisy measurements."
+      },
+      {
+        "title": "Deep Learning-based tracking",
+        "description": "Tracking algorithms that use deep learning models to learn appearance features and motion patterns of objects"
+      }
+    ]
+  },
+  {
+    "section": "Classification",
+    "image": {
+      "url": "/img/photo/classification.jpg",
+      "alt": "img"
+    },
+    "title": "Classification",
+    "description": "We can categorize images or videos into predefined classes, providing accurate and efficient labeling. This is useful for tasks like image sorting, image search, and medical image analysis. We employ techniques such as Convolutional Neural Networks (CNNs), Support Vector Machines (SVMs), and Random Forests for classification.",
+    "subSections": [
+      {
+        "title": "CNNs",
+        "description": "Neural networks that are specifically designed for processing image data, featuring convolutional layers, pooling layers, and fully connected layers."
+      },
+      {
+        "title": "SVMs",
+        "description": "Machine learning algorithms that find a hyperplane to separate data points into different classes."
+      },
+      {
+        "title": "Random Forests",
+        "description": "Ensemble learning algorithms that combine multiple decision trees to make predictions."
+      }
+    ]
+  },
+  {
+    "section": "Regression",
+    "image": {
+      "url": "/img/photo/regression.jpg",
+      "alt": "img"
+    },
+    "title": "Regression",
+    "description": "Our models can predict continuous numerical values, such as object attributes or measurements. For example, we can estimate the size of an object, its speed, or its orientation. We utilize techniques such as linear regression, neural networks, and random forests for regression.",
+    "subSections": [
+      {
+        "title": "Linear regression",
+        "description": "A statistical method that models the relationship between a dependent variable and one or more independent variables as a linear equation."
+      },
+      {
+        "title": "Neural networks",
+        "description": "A class of machine learning models that are inspired by the structure and function of the human brain"
+      },
+      {
+        "title": "Random forests",
+        "description": "Ensemble learning algorithms that combine multiple decision trees to make predictions"
+      }
+    ]
+  }
+]

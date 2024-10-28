@@ -1,0 +1,48 @@
+{
+  "title": "AI domains",
+  "subtitle": "Services",
+  "items": [
+    {
+      "icon": "/img/icons/computer-vision.svg",
+      "num": "01.",
+      "title": "Computer Vision",
+      "text": "Our computer vision projects leverage advanced algorithms to enable machines to interpret and understand the visual world. From image recognition to video analysis, our solutions are designed to tackle real-world challenges.",
+      "link": "/services/service-1"
+    },
+    {
+      "icon": "/img/icons/image-processing.svg",
+      "num": "02.",
+      "title": "Image and Video Processing",
+      "text": "We develop sophisticated image and video processing applications that enhance, analyze, and transform visual data. Our work in this field includes applications in media, security, healthcare, and more.",
+      "link": "/services/service-2"
+    },
+    {
+      "icon": "/img/icons/nlp.svg",
+      "num": "03.",
+      "title": "Natural Language Processing (NLP)",
+      "text": "Our NLP projects empower machines to understand, interpret, and generate human language. We create applications that enhance communication, automate customer service, and provide insightful data analysis.",
+      "link": "/services/service-3"
+    },
+    {
+      "icon": "/img/icons/audio-processing.svg",
+      "num": "04.",
+      "title": "Speech and Audio Processing",
+      "text": "We specialize in developing applications that process and analyze speech and audio data. Our solutions include voice recognition, audio enhancement, and speech-to-text conversion, providing valuable tools for a variety of industries.",
+      "link": "/services/service-1"
+    },
+    {
+      "icon": "/img/icons/signal-processing.svg",
+      "num": "05.",
+      "title": "Signal Processing",
+      "text": "Our signal processing expertise allows us to develop systems that efficiently process and analyze signals in various forms. This includes applications in telecommunications, medical diagnostics, and more.",
+      "link": "/services/service-2"
+    },
+    {
+      "icon": "/img/icons/math-problem.svg",
+      "num": "06.",
+      "title": "Scientific Problems and Projects",
+      "text": "We tackle complex scientific problems with innovative solutions. Our projects often involve sophisticated algorithms and computational models, addressing challenges in fields such as physics, biology, and engineering.",
+      "link": "/services/service-3"
+    }
+  ]
+}
