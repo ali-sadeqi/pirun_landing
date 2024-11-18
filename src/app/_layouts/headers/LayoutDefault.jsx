@@ -48,27 +48,31 @@ const DefaultHeader = () => {
                       className={`mil-has-children ${
                         isPathActive(item.link) ? "mil-active" : ""
                       }`}
-                      key={`header-menu-item-${index}`}>
+                      key={`header-menu-item-${index}`}
+                    >
                       <Link
                         href={item.link}
                         onClick={
                           item.children.length > 0
                             ? (e) => handleSubMenuClick(index, e)
                             : null
-                        }>
+                        }
+                      >
                         {item.label}
                       </Link>
                       {item.children.length > 0 && (
                         <ul
                           className={
                             activeSubMenu === index ? "mil-active" : ""
-                          }>
+                          }
+                        >
                           {item.children.map((subitem, subIndex) => (
                             <li
                               key={`header-submenu-item-${subIndex}`}
                               className={
                                 isPathActive(subitem.link) ? "mil-active" : ""
-                              }>
+                              }
+                            >
                               <Link href={subitem.link}>{subitem.label}</Link>
                             </li>
                           ))}
@@ -86,7 +90,8 @@ const DefaultHeader = () => {
 
               <div
                 className={`mil-menu-btn ${toggle ? "mil-active" : ""}`}
-                onClick={() => setToggle(!toggle)}>
+                onClick={() => setToggle(!toggle)}
+              >
                 <span></span>
               </div>
             </div>
